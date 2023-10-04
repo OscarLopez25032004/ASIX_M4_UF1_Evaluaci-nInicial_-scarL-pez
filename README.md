@@ -1,7 +1,6 @@
 # ASIX_M4_UF1_EvaluaciónInicial_ÓscarLópez
 Practica 2
 
-**Evaluación Inicial**
 Evaluación Inicial
 ==================
 
