@@ -1,26 +1,33 @@
-# ASIX_M4_UF1_Evaluaci-nInicial_-scarL-pez
-Evaluación Inicial
-###Evaluación Inicial
+# SMX2_M8_UF1_A2_-scarL-pez
+Practica 2
 
-¿Qué es una página web?
-Una página web és una lugar sitiado en una dirección de Internet la cual contiene informacion.
-¿Qué es un sitio web?
-Espacio virtual que contiene información de personas o empresas.
-¿Qué es una aplicación web?
-Son programas informáticos que se ejecutan en un servidor web.
-¿Qué es una herramienta ofimática?
-Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una presentación.
-Herramientas de Google
-Aplicaciones	Visto
-Google Docs	Tick
-Google Slides	Tick
-Google Sheets	Tick
-Google Calendar	Tick
-Google Meet	Tick
-...	...
-¿Qué es HTML ?
-Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
+###**Evaluación Inicial**
 
+1. ¿Qué es una página web?  
+Una página web és una lugar sitiado en una dirección de Internet la cual contiene informacion.  
+2. ¿Qué es un sitio web?  
+Espacio virtual que contiene información de personas o empresas.  
+3. ¿Qué es una aplicación web?  
+Son programas informáticos que se ejecutan en un servidor web.  
+4. ¿Qué es una herramienta ofimática?  
+Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una
+presentación.  
+5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google")  
+
+| **Aplicaciones** | **Visto** |
+|--------|:--------:|
+| Google Docs | ![Tick](https://github.com/OscarLopez25032004/SMX2_M8_UF1_A2_-scarL-pez/blob/main/Captura.PNG "Tick") |
+| Google Slides | ![Tick](https://github.com/OscarLopez25032004/SMX2_M8_UF1_A2_-scarL-pez/blob/main/Captura.PNG "Tick") |
+| Google Sheets  | ![Tick](https://github.com/OscarLopez25032004/SMX2_M8_UF1_A2_-scarL-pez/blob/main/Captura.PNG "Tick") |
+| Google Calendar  | ![Tick](https://github.com/OscarLopez25032004/SMX2_M8_UF1_A2_-scarL-pez/blob/main/Captura2.PNG "Tick") |
+|Google Meet  | ![Tick](https://github.com/OscarLopez25032004/SMX2_M8_UF1_A2_-scarL-pez/blob/main/Captura3.PNG "Tick") |
+|...  | ... |  
+  
+6. ¿Qué es `HTML` ?  
+
+Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.  
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -32,7 +39,9 @@ Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 <body>
 </body>
 </html>
-¿Qué es CSS ?
-CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los elementos HTML deberían ser mostrados.
-Flujo de trabajo (navegador, petición, servidor y respuesta):
-Grafico
+```
+7. ¿Qué es `CSS` ?  
+CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los
+elementos HTML deberían ser mostrados.  
+8. Flujo de trabajo (navegador, petición, servidor y respuesta):  
+![Grafico](https://github.com/OscarLopez25032004/SMX2_M8_UF1_A2_-scarL-pez/blob/main/Captura4.PNG "Grafico")
