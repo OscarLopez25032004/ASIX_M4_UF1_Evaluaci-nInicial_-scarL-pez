@@ -1,4 +1,4 @@
-# ASIX_M4_UF1_Evaluaci-nInicial_-scarL-pez
+# ASIX_M4_UF1_EvaluaciónInicial_ÓscarLópez
 Practica 2
 
 ###**Evaluación Inicial**
