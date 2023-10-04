@@ -2,6 +2,9 @@
 Practica 2
 
 **Evaluación Inicial**
+Evaluación Inicial
+==================
+
 
 1. ¿Qué es una página web?  
 Una página web és una lugar sitiado en una dirección de Internet la cual contiene informacion.  
